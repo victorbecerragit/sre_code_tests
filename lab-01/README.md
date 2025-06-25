@@ -10,6 +10,9 @@ www.google.com , news.ycombinator.com , example.net , https://www.programmax.net
 
 # Pseudocodigo 
 
+```shellsession
+
+#
 # Lista inicial de dominios
 dominios ← [
   "www.google.com",
@@ -63,3 +66,4 @@ fin función
 # Ejecutamos
 procesarDominios(dominios)
 
+```
