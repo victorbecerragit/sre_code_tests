@@ -10,7 +10,7 @@ www.google.com , news.ycombinator.com , example.net , https://www.programmax.net
 
 # Pseudocodigo 
 
-```shellsession
+```yaml
 
 #
 # Lista inicial de dominios
