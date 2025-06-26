@@ -60,6 +60,20 @@ fin función
 si __name__ == "__main__":
     iniciar_servidor()
 
+```shell
+
+~/t/sre_code_tests   *…  lab-04  sqlite3 url_shortener.db                                                                                                                   Thu Jun 26 10:18:11 2025
+SQLite version 3.45.1 2024-01-30 16:01:20
+Enter ".help" for usage hints.
+sqlite> .tables
+mapping
+sqlite> SELECT * from mapping;
+a62a4|https://linkedin.com
+c57db|https://mail.google.com
+sqlite>
+
+```
+
 ```yaml
 
 from flask import Flask, redirect, request
